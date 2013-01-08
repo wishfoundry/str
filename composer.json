@@ -1,5 +1,5 @@
 {
-    "name": "meido/string",
+    "name": "meido/str",
     "description": "A port of Laravel 3's Str class",
     "authors": [
         {
